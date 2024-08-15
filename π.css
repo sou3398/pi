@@ -1,0 +1,43 @@
+body{
+    background-color:#fcfcfc;
+}
+
+a{
+    text-decoration:none;
+    color:#000;
+}
+
+.header{
+    font-size:75px;
+    margin:100px 0;
+    text-align:center;
+    opacity:0.7;
+}
+
+.header p{
+    color:#000;
+}
+
+.main{
+    font-family:"ui-monospace";
+    padding:0 50px;
+    border:2px solid #c0c0c0;
+    border-radius:30px;
+}
+
+.Pi-main{
+    width: 65%;
+    margin:0 auto;
+    opacity:0.7;
+}
+
+.p3{
+    margin:0;
+    padding-top:50px;
+    font-size:18px;
+}
+
+.p14{
+    margin:0;
+    padding-bottom:50px;
+}
